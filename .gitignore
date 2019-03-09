@@ -5,7 +5,8 @@
 /sessions
 /.pnp
 .pnp.js
-.yarn.lock
+.lock
+.gitignore
 
 # testing
 /coverage
